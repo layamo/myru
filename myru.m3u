@@ -12,9 +12,9 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-http://live-nntv.cdnvideo.ru/nntv/nntv.sdp/playlist.m3u8
+https://salam-2-5.rutube.ru/dive/river-3-312.rutube.ru/jD0F55Wcb1YAQaptBYxnWw/stream/musang-704.brz.rutube.ru/SaPs89b1YbSWJO2ZxLuehQ/1710176816/c37cd74192c6bc3d6cd6077c0c4fd686/720p_stream.m3u8
 
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined",НТВ Мир
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Undefined",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Россия 24
