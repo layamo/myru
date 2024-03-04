@@ -12,7 +12,10 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://ok.ru/videoembed/7259987844695
+http://cdn.ntv.ru/ntv-msk/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="General",НТВ
 http://cdn.ntv.ru/ntv0/playlist.m3u8
