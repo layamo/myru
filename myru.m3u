@@ -9,7 +9,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/4941
+https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="Русский",НТВ
 http://cdn.ntv.ru/ntv0/playlist.m3u8
