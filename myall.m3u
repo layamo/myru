@@ -77,43 +77,43 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RTL_Logo_2022.png" group-title="Deutsch",RTL
-https://s.hdtvizlecanli.com/rtl.m3u8
+https://s6.hopslan.com/rtlq1/tracks-v1a1/mono.m3u8?token=cc5309847d855d77d14d9defff80dfa19a642403-cfec09d1c0d25a9a9b09b4c6b9d66021-1710347485-1710336685
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/300px-RTLZWEI_Logo_2019.svg.png" group-title="Deutsch",RTL 2
-https://s.hdtvizlecanli.com/rtl2d.m3u8
+https://s6.hopslan.com/rtl2x1/tracks-v1a1/mono.m3u8?token=ac83a1d6af92bfe8ce6758133496745fa1c34928-d80111d091eede8d2cb5b33bd73d656f-1710347503-1710336703
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/250px-ProSieben_Logo_2015.svg.png" group-title="Deutsch",ProSieben
-https://s.hdtvizlecanli.com/pro7a.m3u8
+https://s6.hopslan.com/pro7x1/tracks-v1a1/mono.m3u8?token=3ca5b9cc16021cd64c04dc1dfc28c1c779a23aaf-e70861f8cc896608512bf106276c6c4a-1710347515-1710336715
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/600px-Neues_Sat._1_Logo_transparent.png" group-title="Deutsch",SAT.1
-https://s.hdtvizlecanli.com/sat1.m3u8
+https://s6.hopslan.com/sat1x1/tracks-v1a1/mono.m3u8?token=dc71d1e7c1a279352766e04f7f73199661925533-9b0008b3be0ccc2fa77672dc03d405d9-1710347533-1710336733
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Vox_Logo.svg/715px-Vox_Logo.svg.png?20090503084621" group-title="Deutsch",VOX
-https://s.hdtvizlecanli.com/voxc.m3u8
+https://s6.hopslan.com/voxx1/tracks-v1a1/mono.m3u8?token=34597b87eb8511fd2d4b369772d031fef5e42e7e-c0155cdc46007f03f54f0f40673d1332-1710347550-1710336750
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kabel_eins_Logo_08.svg/652px-Kabel_eins_Logo_08.svg.png" group-title="Deutsch",kabeleins
-https://s.hdtvizlecanli.com/kabel1a.m3u8
+https://s6.hopslan.com/kabel1x1/tracks-v1a1/mono.m3u8?token=7c4a5289ae36a45108b9fe23e8fe7ecd01ddfab8-8e674f3f2afd48a4e469b82b5e659620-1710347565-1710336765
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/651px-ProSieben_MAXX_Logo.svg.png" group-title="Deutsch",ProSieben MAXX
-https://stream.hdtvizlecanli.com/prosiebenmaxx.m3u8
+https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8?token=019677cdaed40ac140869482be3b74d146eab62c-ff0f64ba7068925be9b189ea5c96da8d-1710347587-1710336787
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/800px-DMAX_BLACK.svg.png" group-title="Deutsch",DMAX
-https://stream.hdtvizlecanli.com/dmaxger.m3u8
+https://s6.hopslan.com/dmax1/tracks-v1a1/mono.m3u8?token=0efd570fadf85d9b12547339ebe9d69fd8ca9419-548f27ffb9a033f331bed26f4a9acb39-1710347600-1710336800
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/494px-RTL_Nitro_logo.svg.png" group-title="Deutsch",RTL NITRO
 https://s6.hopslan.com/nitrox1/index.m3u8?token=6438e51b9959949dd086095371f0542389dee781-3ecc26dccc77a8821a86f6d793a55d9f-1710345803-1710335003
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/300px-Sixx_Logo.svg.png" group-title="Deutsch",SIXX
-https://stream.hdtvizlecanli.com/sixxger.m3u8
+https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8?token=9659219c9f362f4ec769787f4d2c37ab295b94d4-6915c7d46fd2920af2e345e68da08c8e-1710347616-1710336816
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/1920px-SAT.1_Gold_2019.svg.png" group-title="Deutsch",SAT.1 GOLD
-https://stream.hdtvizlecanli.com/sgold.m3u8
+https://s6.hopslan.com/goldx1/tracks-v1a1/mono.m3u8?token=9d56960c394a2454a8df71cb5b22cccf69cea82b-8f087de74eb3be6c7233df538d407f5a-1710347641-1710336841
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TELE_5_Logo.svg/1920px-TELE_5_Logo.svg.png" group-title="Deutsch",TELE 5
-https://s.hdtvizlecanli.com/tele5ger2.m3u8
+https://s6.hopslan.com/tele5x1/tracks-v1a1/mono.m3u8?token=f4f097e0bc026c74099b0d4ec6baa5f7b0c842d0-f3d5285ac45511f8cb13f89f398f9c09-1710347657-1710336857
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/300px-N-tv_logo-september2017.svg.png" group-title="Deutsch",NTV
-https://stream.hdtvizlecanli.com/ntvgera.m3u8
+https://s6.hopslan.com/ntvx1/tracks-v1a1/mono.m3u8?token=ed5e4899df379b5da16d48f50baa750d06053a47-9cb2b73a92fdcda138f41d8e3fb9517e-1710347721-1710336921
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/300px-Welt_TV_Logo_2016.svg.png" group-title="Deutsch",WELT
 https://welt.personalstream.tv/v1/master.m3u8
