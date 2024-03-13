@@ -85,7 +85,7 @@ https://s.hdtvizlecanli.com/rtl2d.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/250px-ProSieben_Logo_2015.svg.png" group-title="Deutsch",ProSieben
 https://s.hdtvizlecanli.com/pro7a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://de.wikipedia.org/wiki/Datei:Neues_Sat._1_Logo_transparent.png" group-title="Deutsch",SAT.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Neues_Sat._1_Logo_transparent.png/600px-Neues_Sat._1_Logo_transparent.png" group-title="Deutsch",SAT.1
 https://s.hdtvizlecanli.com/sat1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/70/Vox_Logo.svg/715px-Vox_Logo.svg.png?20090503084621" group-title="Deutsch",VOX
@@ -109,7 +109,7 @@ https://stream.hdtvizlecanli.com/sixxger.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SAT.1_Gold_2019.svg/1920px-SAT.1_Gold_2019.svg.png" group-title="Deutsch",SAT.1 GOLD
 https://stream.hdtvizlecanli.com/sgold.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TELE_5_Logo.svg/1920px-TELE_5_Logo.svg.png" group-title="Deutsch",TELE 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TELE_5_Logo.svg/1920px-TELE_5_Logo.svg.png" group-title="Deutsch",TELE 5
 https://s.hdtvizlecanli.com/tele5ger2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/300px-N-tv_logo-september2017.svg.png" group-title="Deutsch",NTV
