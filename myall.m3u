@@ -62,7 +62,7 @@ https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/ARD_Logo_2019.svg" group-title="Deutsch",ARD
-https://mcdn.daserste.de/daserste/de/master_1920p_5000.m3u8
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/ZDF_logo.svg" group-title="Deutsch",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
