@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
+https://salam-2-2.rutube.ru/dive/river-3-302.rutube.ru/V5x5zNx1BGgVd2qErMwPbA/stream/genetta-328.m9.rutube.ru/acfhKPsh9gQoDY_W6vzePg/1710935470/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Русский",Россия 1
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Россия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета
+https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
+
+#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
+https://salam-2-2.rutube.ru/dive/river-5-514.rutube.ru/tfEpLy-e89pw9MUQ9fcLKA/stream/genetta-527.ost.rutube.ru/M17QPxUxcDOuS1FygW_0SQ/1710933161/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+
+#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
+
+#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Россия 24
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rossiya24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Русский",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Русский" user-agent="ExoPlayer2/2.37",ТНТ4
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Русский" user-agent="ExoPlayer2/2.37",РБК
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rbktv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Рен ТВ
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Звезда
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-logo="https://i.imgur.com/NNmjD9Z.png" group-title="Русский",Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Русский",СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Русский",5 канал
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2016/08/tbn_logo-3.png" group-title="Русский",ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/gnc.webp" group-title="Русский",GNC
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/spas.webp" group-title="Русский",Спас ТВ
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://smotret.tv/images/tri-angela.webp" group-title="Русский",Три Ангела
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/ARD_Logo_2019.svg" group-title="Deutsch",ARD
+https://mcdn.daserste.de/daserste/de/master_1920p_5000.m3u8
+
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/ZDF_logo.svg" group-title="Deutsch",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Zdf_neo_hd.svg" group-title="Deutsch",ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/ZDF_info_HD.svg" group-title="Deutsch",ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="arte.de" tvg-logo="https://i.imgur.com/ecXMjNl.png" group-title="Deutsch",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/RTL_Logo_2022.png" group-title="Deutsch",RTL
+https://s.hdtvizlecanli.com/rtl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/RTLZWEI_Logo_2019.svg" group-title="Deutsch",RTL 2
+https://s.hdtvizlecanli.com/rtl2d.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/ProSieben_logo.svg" group-title="Deutsch",ProSieben
+https://s.hdtvizlecanli.com/pro7a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/a1/Sat.1_Logo.svg" group-title="Deutsch",SAT.1
+https://s.hdtvizlecanli.com/sat1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://de.m.wikipedia.org/wiki/Datei:VOX_Logo_2013.svg" group-title="Deutsch",VOX
+https://s.hdtvizlecanli.com/voxc.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Kabel_Eins_2011.svg" group-title="Deutsch",kabeleins
+https://s.hdtvizlecanli.com/kabel1a.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/ProSieben_MAXX_Logo.svg" group-title="Deutsch",ProSieben MAXX
+https://stream.hdtvizlecanli.com/prosiebenmaxx.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/DMAX_BLACK.svg" group-title="Deutsch",DMAX
+https://stream.hdtvizlecanli.com/dmaxger.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nitro_Logo.svg" group-title="Deutsch",RTL NITRO
+https://s6.hopslan.com/nitrox1/index.m3u8?token=6438e51b9959949dd086095371f0542389dee781-3ecc26dccc77a8821a86f6d793a55d9f-1710345803-1710335003
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Sixx_Logo.svg" group-title="Deutsch",SIXX
+https://stream.hdtvizlecanli.com/sixxger.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/SAT.1_Gold_2019.svg" group-title="Deutsch",SAT.1 GOLD
+https://stream.hdtvizlecanli.com/sgold.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/TELE_5_Logo.svg" group-title="Deutsch",TELE 5
+https://s.hdtvizlecanli.com/tele5ger2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/N-tv_logo-september2017.svg" group-title="Deutsch",NTV
+https://stream.hdtvizlecanli.com/ntvgera.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Welt_TV_Logo_2016.svg" group-title="Deutsch",WELT
+https://welt.personalstream.tv/v1/master.m3u8
