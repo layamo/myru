@@ -47,9 +47,3 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Русский",5 канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
-https://salam-2-2.rutube.ru/dive/river-5-512.rutube.ru/N4cTpkVm61yaMlIL3hVTCA/stream/genetta-328.m9.rutube.ru/v8yOdHf73tG9V-N5wnlpVg/1712849767/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
-
-#EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://salam-2-2.rutube.ru/dive/river-5-514.rutube.ru/ty0khENK7_8xcgT27kcbBA/stream/genetta-515.ost.rutube.ru/kYylti-1peRKXFQ53QPrtw/1712850035/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
