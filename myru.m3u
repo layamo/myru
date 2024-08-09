@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
-https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/UobLsMoD02OmAkBnVjfj3A/1723739206/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/rLs-iibuJDCk9BRnortrGQ/1723817899/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Русский",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
@@ -9,7 +9,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 https://bkm.beetv.kz/btv/live/hls/000000812.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://live-gcore-1.rutube.ru/stream/genetta-303.m9.rutube.ru/-OnsfXGv82Q-bvtBTcS97w/1723739258/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+https://live-gcore-1.rutube.ru/stream/genetta-303.m9.rutube.ru/Fhe4vUDFeWl0OHf5QMoNtQ/1723817934/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
