@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
-https://live-gcore-1.rutube.ru/stream/musang-701.brz.rutube.ru/EitXYdPGGqHsA1q8JTJesg/1724408512/c58f502c7bb34a8fcdd976b221fca292/1080p_stream.m3u8
+https://streaming.televizor-24-tochka.ru/live/210.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="Русский",Россия 1
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
