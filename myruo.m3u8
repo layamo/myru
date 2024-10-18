@@ -20,6 +20,9 @@ https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
 http://stream02.vnet.am/HTB/mono.m3u8
 
+#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
 #EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Русский",ТНТ
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 
