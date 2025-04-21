@@ -58,5 +58,5 @@ https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/tri-angela.webp" group-title="Русский",Три Ангела
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 
-#EXTINF:-1 tvg-logo="https://e-formel.de/files/e-formel/uploads/page%20imagery/TV-Logos/DF1-Logo.png" group-title="Deutsch",DF1
+#EXTINF:-1 tvg-logo="https://e-formel.de/files/e-formel/uploads/page%20imagery/TV-Logos/DF1-Logo.png" group-title="Русский",DF1
 https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
