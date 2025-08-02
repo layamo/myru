@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXT-X-VERSION:3
+
 #EXTINF:-1 tvg-id="ChannelOne.ru" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="Русский",Первый канал
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
@@ -6,10 +8,12 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета
-https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_rtrplaneta",NAME="RTR Planeta Audio",URI="https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_5.m3u8?md5=0skR85unI8R_xZl88YJXyQ&e=1754186696&hls_proxy_host=70b013ca21e8364cd537747cf862272b"
+#EXT-X-STREAM-INF:BANDWIDTH=800000,AUDIO="audio_rtrplaneta"
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_sng/playlist_4.m3u8?md5=0skR85unI8R_xZl88YJXyQ&e=1754186696&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://frv6.sysnet.top/video/RAmfkmUrB8VnBS7kVZVqqw/5/playlist.m3u8
+https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
