@@ -7,10 +7,10 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета
-https://streaming.goodstream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f?007.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://salam-de-87.rutube.ru/dive/river-3-379.rtbcdn.ru/4jNXdY7zIwVHLkUmg3d7zQ/stream/genetta-315.m9.rutube.ru/-si1hMiWMVuEZLviS-hdlg/1755946176/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+https://salam-de-rasc-87.rtbcdn.ru/dive/river-4-432.rtbcdn.ru/h9mcPgSjYXogHz0ufjknlg/stream/genetta-316.m9.rutube.ru/EMGZCv5hq1MVinw_Crkdjg/1772643261/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
