@@ -7,29 +7,28 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета
-https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f?007.m3u8
+https://s10390.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=308873671&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgMTA6NTI6NDEgQU0maGFzaF92YWx1ZT11OVVXMUlPZDhhcExyY01zTi9aRXFBPT0mdmFsaWRtaW51dGVzPTIwMA==
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
-https://salam-de-rasc-87.rtbcdn.ru/dive/river-4-432.rtbcdn.ru/h9mcPgSjYXogHz0ufjknlg/stream/genetta-316.m9.rutube.ru/EMGZCv5hq1MVinw_Crkdjg/1772643261/c37cd74192c6bc3d6cd6077c0c4fd686/1080p_stream.m3u8
+https://cdn-dvr.ntv.ru/ntv-msk_hd/tracks-v2a1/rewind-7150.ts.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
 
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://rustv.live/images/bg_tv/bg_tv_ntv-mir.jpg" group-title="Русский",НТВ Мир
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/2081200_576p.m3u8
+https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist_3.m3u8?md5=dcryDwWhF00PoGTP9_ESAA&e=1772989042&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 
 #EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Русский",ТНТ
-https://frv2.sysnet.top/video/nMNKQXjJ3upDlsr4adV7aQ/11/playlist.m3u8
+https://river-4-442.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/OgeyS30i6lRKJ-uzgTvjJQ/1773572115/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Русский" user-agent="ExoPlayer2/2.37",ТНТ4
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+https://river-5-549.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/j-ifMcWrDIy0Rlqocdtg5g/1773572143/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Русский" user-agent="ExoPlayer2/2.37",РБК
-https://e3-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e3&t=RYq3pY
+https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=4ymEIG
 
 #EXTINF:-1 tvg-id="RENTV.ru" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Рен ТВ
-https://tv.tvcdnpotok.com/9dhTw0fy_K6naMOblM5QCg/543/1748538178/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -38,22 +37,21 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="Русский",СТС
-https://nlv2.sysnet.top/video/osdzE4AiEu-_a2lLtrA-MQ/9/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="Русский",5 канал
-https://tv.tvcdnpotok.com/ttWnEtqE0TLsUMxb3uh3SA/524/1748538154/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://tbn-tv.com/wp-content/uploads/2016/08/tbn_logo-3.png" group-title="Русский",ТБН
-https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist_w362687008_b3711336.m3u8
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist_w242569013_b3629966.m3u8
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/gnc.webp" group-title="Русский",GNC
 https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/spas.webp" group-title="Русский",Спас ТВ
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://smotret.tv/images/tri-angela.webp" group-title="Русский",Три Ангела
-https://hls.tv.3angels.ru/stream/HQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://e-formel.de/files/e-formel/uploads/page%20imagery/TV-Logos/DF1-Logo.png" group-title="Русский",DF1
-https://d287776cjxyfeq.cloudfront.net/out/v1/08823cd7fba74508a5a577fd51dc41f6/index_2.m3u8
