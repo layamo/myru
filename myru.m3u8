@@ -7,7 +7,7 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 
 #EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="Русский",РТР Планета
-https://s10390.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=308873671&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjYgMTA6NTI6NDEgQU0maGFzaF92YWx1ZT11OVVXMUlPZDhhcExyY01zTi9aRXFBPT0mdmFsaWRtaW51dGVzPTIwMA==
+https://s189.glaz.tv:8082/liveg/rtrpl.stream/chunks.m3u8?nimblesessionid=466901933&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI2IDEyOjA4OjQ2IFBNJmhhc2hfdmFsdWU9aENBeDhzaFFQeFFwY1kxWTdGOTVrdz09JnZhbGlkbWludXRlcz0yMDA=
 
 #EXTINF:-1 tvg-id="NTV.ru" tvg-logo="https://smotret.tv//images/ntv.webp" group-title="Русский",НТВ
 https://cdn-dvr.ntv.ru/ntv-msk_hd/tracks-v2a1/rewind-7150.ts.m3u8?filter.tracks=v2v1v3v4v5a1l1t1
@@ -16,13 +16,13 @@ https://cdn-dvr.ntv.ru/ntv-msk_hd/tracks-v2a1/rewind-7150.ts.m3u8?filter.tracks=
 https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-3k_v5.m3u8
 
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Русский" user-agent="ExoPlayer2/2.37",Россия 24
-https://vgtrksmotrim.cdnvideo.ru/hls/russia24_int/playlist_3.m3u8?md5=dcryDwWhF00PoGTP9_ESAA&e=1772989042&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://gtrk-volga.ru/media/hr24/stream1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yNC8yMDI2IDEyOjA5OjU1IFBNJmhhc2hfdmFsdWU9eUdNM0FDUEwwTEROUzlCdkZtbmRQZz09JnZhbGlkbWludXRlcz0xNDQw
 
 #EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Русский",ТНТ
-https://river-4-442.rtbcdn.ru/stream/genetta-312.m9.rutube.ru/OgeyS30i6lRKJ-uzgTvjJQ/1773572115/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
+https://salam-spbsed-mts-d106.rtbcdn.ru/dive/river-5-557.rtbcdn.ru/Dr_pXZakbzGYbUG9zVd3pQ/stream/genetta-312.m9.rutube.ru/hkIL9v07kS838mUaG8U6fQ/1780229455/546602986e6a424d74d594876ddb3f04/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="TNT4.ru" tvg-logo="https://i.imgur.com/gBokU5i.png" group-title="Русский" user-agent="ExoPlayer2/2.37",ТНТ4
-https://river-5-549.rtbcdn.ru/stream/genetta-318.m9.rutube.ru/j-ifMcWrDIy0Rlqocdtg5g/1773572143/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
+https://salam-spbsed-mts-d106.rtbcdn.ru/dive/river-6-605.rtbcdn.ru/nmZLlkZTJ5XVVW9SbZsXkA/stream/genetta-318.m9.rutube.ru/kgYl8VM0O58FbuQVB2gECw/1780229481/c801a7087e29a097192d74c270fbc6c1/1080p_stream.m3u8
 
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="Русский" user-agent="ExoPlayer2/2.37",РБК
 https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=4ymEIG
